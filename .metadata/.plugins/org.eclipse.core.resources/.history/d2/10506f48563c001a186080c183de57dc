@@ -1,0 +1,15 @@
+package com.token.token.model;
+
+public class Token {
+	
+	
+	private String token;
+
+	public Token(String str) {
+		super();
+		this.token = str;
+	}
+	
+	
+
+}

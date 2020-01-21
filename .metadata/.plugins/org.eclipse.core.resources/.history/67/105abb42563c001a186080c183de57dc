@@ -1,0 +1,5 @@
+package com.token.token.model;
+
+public class Token {
+
+}
